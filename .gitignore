@@ -1,0 +1,53 @@
+﻿# Dependencies
+node_modules/
+package-lock.json
+
+# Build output
+dist/
+build/
+out/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Coverage directory
+coverage/
+
+# Operating System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+
+# Debug files
+debug/
+*.debug
+
+# TypeScript
+*.tsbuildinfo
+
+# Test files
+__tests__/
+test-results/
